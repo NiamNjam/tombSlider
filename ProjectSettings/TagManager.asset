@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Wall
   - Coin
+  - BigCoin
+  - Star
   layers:
   - Default
   - TransparentFX
